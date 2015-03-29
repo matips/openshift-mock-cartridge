@@ -1,6 +1,7 @@
 ---
 Name: mock
 Cartridge-Short-Name: MOCK
+Source-Url: git@github.com:matips/openshift-mock-cartridge.git
 Display-Name: Mock Cartridge 0.1
 Description: A mock cartridge for development use only.
 Version: '0.1'
@@ -10,9 +11,9 @@ Versions:
 - '0.3'
 - '0.4'
 License: ASL 2.0
-Vendor: Red Hat
+Vendor: Matips
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: redhat
+Cartridge-Vendor: matips
 Categories:
 - service
 - mock
