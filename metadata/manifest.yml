@@ -17,6 +17,7 @@ Cartridge-Vendor: matips
 Categories:
 - service
 - mock
+- web_framework
 Provides:
 - mock-0.1
 - mock
